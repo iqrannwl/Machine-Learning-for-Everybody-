@@ -1,7 +1,5 @@
 # Machine-Learning-for-Everybody-
 
-# Setup
-
 ```shell
 git clone https://github.com/iqrannwl/Machine-Learning-for-Everybody-
 ```
